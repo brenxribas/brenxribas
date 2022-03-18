@@ -6,3 +6,5 @@ onde pude desenvolver uma empresa de aluguel de carros utilizando Java, MySQL, J
 Também tenho conhecimentos em Node.js, React.js, Python e Angular. 
 
 Sempre disposto e interessado a aprender novas tecnologias, se aperfeiçoando cada vez mais na área. 💪✨🏴
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
