@@ -1,8 +1,6 @@
-Hi 👋 My name is Breno!
+Hi there 👋 
+My name is Breno!
 =======================
-
-Web Developer
--------------
 
 Junior developer focused on front-end and design, studying for a bachelor's degree at UNIP Information Systems, always interested in learning new technologies, improving himself more and more in the area.
 
