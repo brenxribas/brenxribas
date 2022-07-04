@@ -1,13 +1,12 @@
-Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
-My name is Breno!
-=======================
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /><br>
+My name is Breno!</h1>
 
-Junior developer focused on front-end and design, studying for a bachelor's degree at UNIP Information Systems, always interested in learning new technologies, improving himself more and more in the area.
+Software developer focused on front-end and design, studying for a bachelor's degree at UNIP Information Systems, always interested in learning new technologies, improving himself more and more in the area.
 
 * 🌍  I'm based in São Paulo, Brasil 🇧🇷
 * 🧠  I'm learning React, Node and TypeScript
 
-### Skills
+<h2 align="left">💻 Skills</h2>
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -22,9 +21,15 @@ Junior developer focused on front-end and design, studying for a bachelor's degr
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-
-### Socials
+<h2 align="left">🌐 Socials</h2>
 
 <p align="left"> <a href="https://www.codepen.io/brenxribas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/brenxribas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/breno-ribas-aa2ab9127/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">🐱 GitHub Stats</h2>
+<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brenxribas&theme=dark&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" /></a>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
