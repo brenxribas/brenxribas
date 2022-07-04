@@ -33,4 +33,3 @@ Software developer focused on front-end and design, studying for a bachelor's de
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/TomasAlric/TomasAlric/d0503f1d47e5285a90952d375a70ac1e15e2f95d/github-contribution-grid-snake.svg">
