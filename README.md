@@ -1,4 +1,4 @@
-<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /><br>
+<h1 align="center">Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /><br>
 My name is Breno!</h1>
 
 Software developer focused on front-end and design, studying for a bachelor's degree at UNIP Information Systems, always interested in learning new technologies, improving himself more and more in the area.
