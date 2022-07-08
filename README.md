@@ -4,7 +4,7 @@ My name is Breno!</h1>
 Software developer focused on front-end and design, studying for a bachelor's degree at UNIP Information Systems, always interested in learning new technologies, improving himself more and more in the area.
 
 * 🌍  I'm based in São Paulo, Brasil 🇧🇷
-* 🧠  I'm learning React, Node and TypeScript
+* 🧠  I'm learning Vue and TypeScript
 
 <h2 align="left">💻 Skills</h2>
 
