@@ -3,12 +3,9 @@ My name is Breno!</h1>
 
 Software developer focused on front-end and design, studying for a bachelor's degree at UNIP Information Systems, always interested in learning new technologies, improving himself more and more in the area.
 
-* 🌍  I'm based in São Paulo, Brasil 🇧🇷
-* 🧠  I'm learning React and TypeScript
+<h2 align="center">💻 Skills</h2>
 
-<h2 align="left">💻 Skills</h2>
-
-<p align="left">
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -25,17 +22,21 @@ Software developer focused on front-end and design, studying for a bachelor's de
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
-<h2 align="left">🌐 Socials</h2>
+<h2 align="center">🌐 Socials</h2>
 
-<p align="left"> <a href="https://www.codepen.io/brenxribas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/brenxribas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/breno-ribas-aa2ab9127/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center">
+	<a href=https://www.linkedin.com/in/breno-ribas-aa2ab9127/" target="_blank" <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></p>
+  
+
+<h2 align="center">🐱 GitHub Stats</h2>
+                  
+<div align="center">
+   <a href="https://github.com/brenxribas"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenxribas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&layout=compact&langs_count=7&theme=dark"/></a>
+</div>
 
 
-<h2 align="left">🐱 GitHub Stats</h2>
-<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brenxribas&theme=dark&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" /></a>
-</p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/brenxribas/count.svg" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img align="center" src="https://github.com/brenxribas/brenxribas/blob/output/github-contribution-grid-snake.svg"/></p>
 
-![Snake animation](https://github.com/brenxribas/brenxribas/blob/output/github-contribution-grid-snake.svg)
- 
