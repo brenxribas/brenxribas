@@ -24,9 +24,10 @@ Software developer focused on front-end and design, studying for a bachelor's de
 
 <h2 align="center">🌐 Socials</h2>
 
-<p align="center">
-	<a href=https://www.linkedin.com/in/breno-ribas-aa2ab9127/" target="_blank" <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></p>
-  
+<div align="center">
+  <a href = "mailto:brenxribas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/breno-ribas-aa2ab9127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <h2 align="center">🐱 GitHub Stats</h2>
                   
@@ -35,8 +36,7 @@ Software developer focused on front-end and design, studying for a bachelor's de
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
-
+<h2 align="center">🙋‍♂️ Visitors</h2>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/brenxribas/count.svg" /></p>
-
 <p align="center"> <img align="center" src="https://github.com/brenxribas/brenxribas/blob/output/github-contribution-grid-snake.svg"/></p>
 
