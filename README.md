@@ -1,7 +1,8 @@
 <h1 align="center">Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /><br>
 My name is Breno!</h1>
 
-Software developer focused on front-end and design, studying for a bachelor's degree at UNIP Information Systems, always interested in learning new technologies, improving himself more and more in the area.
+I am software developer with a front-end focus. Graduating in Information Systems at Paulista University and already graduated as IT Technician at SENAI São Paulo. 
+I chose to follow the path of technology because I see challenges as opportunities to create new solutions and optimize processes, making people's lives easier. Technology brings me the feeling of constant evolution!
 
 <h2 align="center">💻 Skills</h2>
 
@@ -39,4 +40,5 @@ Software developer focused on front-end and design, studying for a bachelor's de
 <h2 align="center">🙋‍♂️ Visitors</h2>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/brenxribas/count.svg" /></p>
 <p align="center"> <img align="center" src="https://github.com/brenxribas/brenxribas/blob/output/github-contribution-grid-snake.svg"/></p>
+<p align="center"> It is great to connect with new people, please feel free to reach me! 😉 </p>
 
