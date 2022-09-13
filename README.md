@@ -1,8 +1,7 @@
 <h1 align="center">Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /><br>
 My name is Breno!</h1>
 
-I am software developer with a front-end focus. Graduating in Information Systems at Paulista University and already graduated as IT Technician at SENAI São Paulo. 
-I chose to follow the path of technology because I see challenges as opportunities to create new solutions and optimize processes, making people's lives easier. Technology brings me the feeling of constant evolution!
+I am a junior software developer with a front-end focus. I graduated as a Computer Technician at SENAI São Paulo, and I am currently studying Information Systems at Paulista University. I chose to focus on the technology area, because I treat challenges as opportunities to create new solutions and optimize processes to make people's lives easier. Technology brings me the feeling of constant evolution!
 
 <h2 align="center">💻 Skills</h2>
 
