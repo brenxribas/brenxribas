@@ -34,8 +34,5 @@ My name is Breno!</h1>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
-<h2 align="center">🙋‍♂️ Visitors</h2>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/brenxribas/count.svg" /></p>
-<p align="center"> <img align="center" src="https://github.com/brenxribas/brenxribas/blob/output/github-contribution-grid-snake.svg"/></p>
 <p align="center"> It is great to connect with new people, please feel free to reach me! 😉 </p>
 
