@@ -14,12 +14,5 @@ My name is Breno!</h1>
   <a href="https://www.linkedin.com/in/breno-ribas-aa2ab9127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2 align="center">🐱 GitHub Stats</h2>
-                  
-<div align="center">
-   <a href="https://github.com/brenxribas"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenxribas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenxribas&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
-
 <p align="center"> It is great to connect with new people, please feel free to reach me! 😉 </p>
 
